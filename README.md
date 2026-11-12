@@ -14,6 +14,17 @@ Built with **Java, Spring Boot, PostgreSQL, React, and TypeScript**, FinTrack de
 
 ---
 
+## 🎬 Application Demo
+
+Watch FinTrack in action! This video demonstrates
+user authentication, financial transactions,
+category management, budget creation,
+and dashboard analytics.
+
+[▶ Watch FinTrack Application Demo on YouTube](https://youtu.be/TvlgfkA2TOo)
+
+---
+
 ## 🖥️ Application Preview
 
 ### 📊 Dashboard
